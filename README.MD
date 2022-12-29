@@ -1,7 +1,7 @@
 # Creates new/empty cv2 images/numpy arrays 
 
 ```python
-$pip create-empty-image
+$pip install create-empty-image
 
 from create_empty_image import create_new_image, create_new_image_same_size
 
